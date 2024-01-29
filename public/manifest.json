@@ -11,12 +11,23 @@
       "src": "/icons/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
       "src": "/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "id": "8034132809342",
+  "description": "Sewist + Next proof of concept.",
+  "dir": "ltr",
+  "lang": "en",
+  "prefer_related_applications": false
 }
